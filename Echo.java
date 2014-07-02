@@ -29,7 +29,7 @@ import android.util.Log;
 	    } 
    
     
-    //Function for opening file
+    //Function for opening file added
     
     private PluginResult openFile(String fileUrl){
         Log.d("FileViewerPlugin", "View file"+fileUrl);
